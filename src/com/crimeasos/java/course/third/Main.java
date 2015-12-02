@@ -1,3 +1,4 @@
+//цей рядок означає пакет в якому знаходяться класи
 package com.crimeasos.java.course.third;
 
 

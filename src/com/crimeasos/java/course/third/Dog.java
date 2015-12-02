@@ -26,7 +26,7 @@ public class Dog {
      * ѕубл≥чний метод getColor можна викликати з будь-€кому м≥сц€ програми
      */
     public String getColor() {
-       return color;
+        return color;
     }
 
 
