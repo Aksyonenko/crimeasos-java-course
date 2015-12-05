@@ -4,7 +4,7 @@ package com.crimeasos.java.course.third;
 /**
  * Created by Паша on 28.11.2015.
  */
-public class Dog {
+public class Dog extends Animal {
 
     /* По замовчуванню в кожного нового створеного об'єкта типу Dog
          name = "John", color = "red"

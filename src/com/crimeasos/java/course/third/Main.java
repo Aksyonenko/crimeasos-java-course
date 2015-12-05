@@ -31,6 +31,13 @@ public class Main {
         System.out.println(myDog.name);
         //виводимо колір  в змінної myDog
         System.out.println(myDog.getColor());
+
+
+        //практичне завдання
+        Cat simon = new Cat();
+        System.out.println(simon.getName());
+        System.out.println(simon.getAge());
+        simon.sleep();
     }
 
 
