@@ -4,6 +4,7 @@ package com.crimeasos.java.course.fourth;
  * Created by Паша on 05.12.2015.
  */
 public class Robot {
+    String simpleRobotName = "simpleRobotName";
     protected String name;
 
     Robot() {
@@ -13,10 +14,6 @@ public class Robot {
     Robot(String name) {
         this.name = name;
     }
-
-//    public void speak(String text) {
-//        System.out.println(text);
-//    }
 
     public void printName() {
         System.out.println(this.name);
