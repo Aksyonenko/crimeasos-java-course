@@ -3,6 +3,7 @@ package com.crimeasos.java.course.third;
 
 /**
  * Created by Паша on 28.11.2015.
+ * Dog наслідує Animal тому теж має доступ до методу sleep()
  */
 public class Dog extends Animal {
 

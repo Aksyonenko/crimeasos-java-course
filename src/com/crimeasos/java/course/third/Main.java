@@ -34,9 +34,13 @@ public class Main {
 
 
         //практичне завдання
+        //стоврюєть новий екземляр типу Cat simon, в нього по замовчуванню name = "Simon", age = 7
         Cat simon = new Cat();
+        //виводимо name екземляру simon
         System.out.println(simon.getName());
+        //виводимо age екземляру simon
         System.out.println(simon.getAge());
+        //
         simon.sleep();
     }
 
