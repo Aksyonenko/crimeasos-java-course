@@ -20,7 +20,7 @@ public class Robot {
      * викликається автоматично якщо створити новий екзмепляр наступним чином
      * Robot robot = new Robot();
      */
-    Robot() {
+    public Robot() {
         name = "Simon";
     }
 

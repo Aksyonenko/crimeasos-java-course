@@ -1,5 +1,7 @@
 package com.crimeasos.java.course.fourth;
 
+import com.crimeasos.java.course.fourth.cocktailmaker.RobotCocktailMaker;
+
 /**
  * Created by Паша on 05.12.2015.
  * Головний клас, з нього починає роботу програма
@@ -38,6 +40,13 @@ public class Main {
         mmr.printName();
         //робот mmr нічого не буде виводити
         mmr.speak("hello");
+
+
+        //практичне завдання
+        RobotCocktailMaker rcm = new RobotCocktailMaker();
+        rcm.printName();
+        rcm.makeCoffeeCocktail();
+        rcm.makeMilkCocktail();
 
     }
 }
