@@ -46,12 +46,13 @@ public class OperatorTest {
         System.out.println("a>>>b=" + (a>>>b));
         System.out.println();
     }
+
     private static void testShorthandOperators(int a, int b) {
         System.out.println("a+=1" + (a+=1));
-        System.out.println("a+=1" + (a-=1));
-        System.out.println("a+=1" + (a*=1));
-        System.out.println("a+=1" + (a/=1));
-        System.out.println("a+=1" + (a%=1));
+        System.out.println("a-=1" + (a-=1));
+        System.out.println("a*=1" + (a*=1));
+        System.out.println("a/=1" + (a/=1));
+        System.out.println("a%=1" + (a%=1));
         System.out.println();
     }
     private static void testLogicalOperators(boolean a, boolean b) {

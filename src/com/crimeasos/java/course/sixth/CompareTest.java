@@ -11,7 +11,7 @@ import java.util.TreeSet;
 public class CompareTest {
 
     public static void main(String[] args) {
-        Horse horse1 = new Horse("Gorbunok",4, 10, 2);
+        Horse horse1 = new Horse("Gorbunok",4, 10, 12);
         Horse horse2 = new Horse("Sylach", 5, 5, 10);
 
         printBestHorse(horse1, horse2, horse1.compareTo(horse2));
@@ -20,6 +20,14 @@ public class CompareTest {
             @Override
             public int compare(Horse o1, Horse o2) {
                 return Integer.compare(o1.power, o2.power);
+            }
+        };
+
+
+        Comparator<Horse> horseAgeComparator = new Comparator<Horse>() {
+            @Override
+            public int compare(Horse o1, Horse o2) {
+                return  Integer.compare(o1.age, o2.age);
             }
         };
 
@@ -38,7 +46,7 @@ public class CompareTest {
         if (result>0) {
             System.out.println(horse1 + " is better than " + horse2);
         } else  if (result<0) {
-            System.out.println(horse2 + " is better than " + horse2);
+            System.out.println(horse2 + " is better than " + horse1);
         } else {
             System.out.println(horse1 + " is equal with " + horse2);
         }
