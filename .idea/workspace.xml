@@ -2,20 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ae2dde-57c0-4587-b152-766ae741308d" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\src\com\crimeasos\java\course\fourth\Walking.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\src\com\crimeasos\java\course\fourth\test\Main2.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Animal.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Animal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Cat.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Cat.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Dog.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Dog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/EnglishSpeakerModule.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/EnglishSpeakerModule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Main.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Main.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernMuteRobot.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernMuteRobot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernRobot.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernRobot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/MuteSpeakingModule.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/MuteSpeakingModule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Robot.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Robot.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/SpainSpeakerModule.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/SpainSpeakerModule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Speaking.java" afterPath="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Speaking.java" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\EnglishSpeakerModule.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\Main.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\ModernMuteRobot.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\ModernRobot.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\MuteSpeakingModule.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\Robot.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\SpainSpeakerModule.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\Speaking.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\third\Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\third\Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\third\Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\third\Main.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\testProject\com\company\Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\testProject\com\company\Main.class" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\testProject\com\company\MyFirstClass.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -31,8 +32,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/crimeasos-java-course$TestLists.coverage" NAME="TestLists Coverage Results" MODIFIED="1452724667889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.crimeasos.java.course.seventh.*</FILTER>
+    </SUITE>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -40,127 +52,115 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ModernMuteRobot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernMuteRobot.java">
+      <file leaf-file-name="TestMaps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/TestMaps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ModernRobot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernRobot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#1155#1156#0" expanded="true" />
-                <element signature="e#1395#1396#0" expanded="true" />
-                <element signature="e#1436#1437#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpainSpeakerModule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/SpainSpeakerModule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MuteSpeakingModule.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/MuteSpeakingModule.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="31" />
+              <caret line="6" column="82" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Robot.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Robot.java">
+      <file leaf-file-name="ExceptionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/eighth/ExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding>
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#622#623#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
-                <element signature="e#953#954#0" expanded="true" />
-                <element signature="e#1044#1045#0" expanded="true" />
-                <element signature="e#1089#1090#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Speaking.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Speaking.java">
+      <file leaf-file-name="NullPointerException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/NullPointerException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <caret line="52" column="51" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22020726">
-              <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
-              <folding>
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Cat.java">
+      <file leaf-file-name="Exception.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Exception.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="60" />
-              <folding>
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#644#645#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-                <element signature="e#852#853#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <caret line="44" column="22" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Main.java">
+      <file leaf-file-name="TimeoutException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/com/sun/corba/se/impl/orbutil/threadpool/TimeoutException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#331#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCollections.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/TestCollections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnsupportedOperationException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/UnsupportedOperationException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.0">
+              <caret line="1077" column="54" selection-start-line="1077" selection-start-column="12" selection-end-line="1077" selection-end-column="54" />
+              <folding>
+                <element signature="e#46071#46072#0" expanded="true" />
+                <element signature="e#46136#46137#0" expanded="true" />
+                <element signature="e#51496#51497#0" expanded="true" />
+                <element signature="e#51561#51562#0" expanded="true" />
+                <element signature="e#51711#51712#0" expanded="true" />
+                <element signature="e#51776#51777#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/eighth/MyException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6380697">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -172,6 +172,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -187,14 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HelloJava.java" />
-        <option value="$PROJECT_DIR$/src/com/company/MyFirstClass.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/crimeasos/course/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/crimeasos/course/third/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/crimeasos/course/third/Dog.java" />
-        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/another/RobotModern.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/RobotModern.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/another/Test.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/String.java" />
@@ -208,12 +201,44 @@
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/EnglishSpeakerModule.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernMuteRobot.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernRobot.java" />
-        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Robot.java" />
-        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Main.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/third/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/MilkCocktaileMaker.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/CoffeCocktailMaker.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/RobotCocktaileMaker.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/CocktailMakerModule.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/CoffeeCocktailMaker.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/MilkCocktailMaker.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/ObjectClass.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/RobotCocktailMaker.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Robot.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/PrimitiveData.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/TestFieldByValue.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/TestGC.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/TestString.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/WrapperData.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/homepractice/Month.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/homepractice/TestHideField.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/Month.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/sixth/DesitionAndLoopingStatementsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/sixth/OperatorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/sixth/CompareTest.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/sixth/calculator/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/sixth/calculator/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/StreetAutomatTest.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/Automat.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/TestLists.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/TestData.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/TestMaps.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/Table.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/eighth/MyException.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/eighth/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/TestCollections.java" />
       </list>
     </option>
   </component>
@@ -236,6 +261,22 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -261,8 +302,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -270,6 +309,54 @@
               <option name="myItemId" value="crimeasos-java-course" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crimeasos-java-course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crimeasos-java-course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.7 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -298,8 +385,26 @@
               <option name="myItemId" value="course" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="third" />
+              <option name="myItemId" value="crimeasos-java-course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crimeasos-java-course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="course" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sixth" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,12 +426,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fourth" />
+              <option name="myItemId" value="sixth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calculator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,8 +448,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.splitter.proportion" value="0.21645446" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
@@ -347,35 +458,15 @@
       <recent name="com.crimeasos.java.course.fourth.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestCollections">
+    <configuration default="false" name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.crimeasos.java.course.third.*" />
+          <option name="PATTERN" value="com.crimeasos.java.course.sixth.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.crimeasos.java.course.third.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="creameasosCoursesProject" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.crimeasos.java.course.fourth.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.crimeasos.java.course.fourth.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.crimeasos.java.course.sixth.calculator.CalculatorTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -388,14 +479,74 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="TestLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.crimeasos.java.course.fourth.test.*" />
+          <option name="PATTERN" value="com.crimeasos.java.course.seventh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.crimeasos.java.course.fourth.test.Main2" />
+      <option name="MAIN_CLASS_NAME" value="com.crimeasos.java.course.seventh.TestLists" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="creameasosCoursesProject" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.crimeasos.java.course.seventh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.crimeasos.java.course.seventh.TestMaps" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="creameasosCoursesProject" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.crimeasos.java.course.eighth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.crimeasos.java.course.eighth.ExceptionTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="creameasosCoursesProject" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.crimeasos.java.course.seventh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.crimeasos.java.course.seventh.TestCollections" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -627,6 +778,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -642,16 +806,41 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
+    <configuration default="false" name="CompareTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.crimeasos.java.course.sixth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.crimeasos.java.course.sixth.CompareTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="creameasosCoursesProject" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.CompareTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CalculatorTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestLists" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestMaps" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ExceptionTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestCollections" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestCollections" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ExceptionTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestMaps" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestLists" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -672,12 +861,48 @@
       <workItem from="1449085195988" duration="4200000" />
       <workItem from="1449097430721" duration="8610000" />
       <workItem from="1449319280594" duration="9807000" />
-      <workItem from="1449335413947" duration="6701000" />
+      <workItem from="1449335413947" duration="10369000" />
+      <workItem from="1449504683896" duration="7617000" />
+      <workItem from="1449751461555" duration="2338000" />
+      <workItem from="1449925262382" duration="1331000" />
+      <workItem from="1449928862203" duration="7444000" />
+      <workItem from="1450030076535" duration="6311000" />
+      <workItem from="1450193132467" duration="8895000" />
+      <workItem from="1450341546269" duration="5310000" />
+      <workItem from="1450441237499" duration="7874000" />
+      <workItem from="1450712942525" duration="2276000" />
+      <workItem from="1450738861901" duration="4565000" />
+      <workItem from="1450826429910" duration="1983000" />
+      <workItem from="1451071631853" duration="9404000" />
+      <workItem from="1451152546206" duration="6055000" />
+      <workItem from="1452105369719" duration="7942000" />
+      <workItem from="1452524182740" duration="31016000" />
+      <workItem from="1452857997873" duration="19231000" />
+      <workItem from="1453120884873" duration="21335000" />
     </task>
+    <task id="LOCAL-00001" summary="fifth lesson&#10;">
+      <created>1450828661662</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1450828661662</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fifth lesson&#10;">
+      <created>1451166256160</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1451166256160</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sixth lesson&#10;">
+      <created>1452870526924</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1452870526924</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39251000" />
+    <option name="totallyTimeSpent" value="193846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -687,25 +912,26 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32626426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5597484" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32463294" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34584013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27609682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290469" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2632375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29489797" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28367347" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3670473" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2510204" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -720,421 +946,671 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fifth lesson&#10;" />
+    <MESSAGE value="sixth lesson&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="sixth lesson&#10;" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-field">
-          <url>jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Thread.java</url>
-          <line>148</line>
-          <properties field="priority" class="java.lang.Thread" />
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/PrimitiveData.java</url>
+          <line>8</line>
+          <properties field="result" class="com.crimeasos.java.course.fifth.PrimitiveData" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/Test.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/crimeasos/java/course/sixth/CompareTest.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/ArrayList.java</url>
+          <line>190</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/LinkedList.java</url>
+          <line>335</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/HashMap.java</url>
+          <line>486</line>
+          <properties />
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="31" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="table" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Speaking.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="-10.4827585">
+          <caret line="2826" column="44" selection-start-line="2826" selection-start-column="44" selection-end-line="2826" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Main.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Enumeration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Collection.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/rt.jar!/sun/awt/util/IdentityLinkedList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7777777">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/AbstractSequentialList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
+          <caret line="235" column="62" selection-start-line="235" selection-start-column="62" selection-end-line="235" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33235294">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="131" column="19" selection-start-line="131" selection-start-column="19" selection-end-line="131" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="546" column="14" selection-start-line="546" selection-start-column="13" selection-end-line="546" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#34902#0" expanded="false" />
+            <element signature="e#8211#8212#0" expanded="false" />
+            <element signature="e#8238#8239#0" expanded="false" />
+            <element signature="e#8711#8712#0" expanded="false" />
+            <element signature="e#8750#8751#0" expanded="false" />
+            <element signature="e#8901#8902#0" expanded="false" />
+            <element signature="e#8928#8929#0" expanded="false" />
+            <element signature="e#11172#11173#0" expanded="false" />
+            <element signature="e#11210#11211#0" expanded="false" />
+            <element signature="e#15841#15842#0" expanded="false" />
+            <element signature="e#15890#15891#0" expanded="false" />
+            <element signature="e#16062#16063#0" expanded="false" />
+            <element signature="e#16112#16113#0" expanded="false" />
+            <element signature="e#16379#16380#0" expanded="false" />
+            <element signature="e#16433#16434#0" expanded="false" />
+            <element signature="e#19884#19885#0" expanded="false" />
+            <element signature="e#19917#19918#0" expanded="false" />
+            <element signature="e#20447#20448#0" expanded="false" />
+            <element signature="e#20483#20484#0" expanded="false" />
+            <element signature="e#20733#20734#0" expanded="false" />
+            <element signature="e#20762#20763#0" expanded="false" />
+            <element signature="e#23177#23178#0" expanded="false" />
+            <element signature="e#23204#23205#0" expanded="false" />
+            <element signature="e#23662#23663#0" expanded="false" />
+            <element signature="e#23698#23699#0" expanded="false" />
+            <element signature="e#24124#24125#0" expanded="false" />
+            <element signature="e#24156#24157#0" expanded="false" />
+            <element signature="e#26726#26727#0" expanded="false" />
+            <element signature="e#26773#26774#0" expanded="false" />
+            <element signature="e#27095#27096#0" expanded="false" />
+            <element signature="e#27139#27140#0" expanded="false" />
+            <element signature="e#27469#27470#0" expanded="false" />
+            <element signature="e#27509#27510#0" expanded="false" />
+            <element signature="e#27547#27548#0" expanded="false" />
+            <element signature="e#27591#27592#0" expanded="false" />
+            <element signature="e#29025#29026#0" expanded="false" />
+            <element signature="e#29072#29073#0" expanded="false" />
+            <element signature="e#29311#29312#0" expanded="false" />
+            <element signature="e#29359#29360#0" expanded="false" />
+            <element signature="e#29385#29386#0" expanded="false" />
+            <element signature="e#29430#29431#0" expanded="false" />
+            <element signature="e#29461#29462#0" expanded="false" />
+            <element signature="e#29497#29498#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Set.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1652" column="6" selection-start-line="1652" selection-start-column="6" selection-end-line="1652" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="595" column="29" selection-start-line="595" selection-start-column="29" selection-end-line="595" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="149" column="32" selection-start-line="149" selection-start-column="32" selection-end-line="149" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="24" />
+          <caret line="84" column="20" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="20" />
           <folding>
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#0#16850#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Animal.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/AbstractSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
           <folding>
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#0#6510#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Dog.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#11242#0" expanded="false" />
+            <element signature="e#5253#5254#0" expanded="false" />
+            <element signature="e#5305#5306#0" expanded="false" />
+            <element signature="e#6413#6414#0" expanded="false" />
+            <element signature="e#6459#6460#0" expanded="false" />
+            <element signature="e#6644#6645#0" expanded="false" />
+            <element signature="e#6677#6678#0" expanded="false" />
+            <element signature="e#6857#6858#0" expanded="false" />
+            <element signature="e#6893#6894#0" expanded="false" />
+            <element signature="e#7356#7357#0" expanded="false" />
+            <element signature="e#7397#7398#0" expanded="false" />
+            <element signature="e#7993#7994#0" expanded="false" />
+            <element signature="e#8041#8042#0" expanded="false" />
+            <element signature="e#8691#8692#0" expanded="false" />
+            <element signature="e#8736#8737#0" expanded="false" />
+            <element signature="e#8883#8884#0" expanded="false" />
+            <element signature="e#8910#8911#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/LinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="133" column="64" selection-start-line="133" selection-start-column="64" selection-end-line="133" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="203" column="5" selection-start-line="203" selection-start-column="5" selection-end-line="203" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.7586207">
+          <caret line="123" column="20" selection-start-line="123" selection-start-column="13" selection-end-line="123" selection-end-column="20" />
+          <folding>
+            <element signature="e#10650#10651#0" expanded="false" />
+            <element signature="e#10717#10718#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1894" column="28" selection-start-line="1894" selection-start-column="28" selection-end-line="1894" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Iterable.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+        <state vertical-scroll-proportion="-8.4827585">
+          <caret line="852" column="57" selection-start-line="852" selection-start-column="26" selection-end-line="852" selection-end-column="57" />
+          <folding>
+            <element signature="e#11790#11820#1" expanded="false" />
+            <element signature="e#29847#29848#0" expanded="false" />
+            <element signature="e#29879#29880#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Main.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <caret line="329" column="18" selection-start-line="329" selection-start-column="18" selection-end-line="329" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Number.java">
+    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/TestString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Float.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <caret line="148" column="19" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+          <folding>
+            <element signature="e#5860#5861#0" expanded="false" />
+            <element signature="e#5896#5897#0" expanded="false" />
+            <element signature="e#10180#10181#0" expanded="false" />
+            <element signature="e#10263#10264#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Integer.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="638" column="0" selection-start-line="638" selection-start-column="0" selection-end-line="638" selection-end-column="0" />
+          <caret line="147" column="19" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#19086#0" expanded="false" />
+            <element signature="e#12684#12685#0" expanded="false" />
+            <element signature="e#12737#12738#0" expanded="false" />
+            <element signature="e#13852#13853#0" expanded="false" />
+            <element signature="e#13884#13885#0" expanded="false" />
+            <element signature="e#14354#14355#0" expanded="false" />
+            <element signature="e#14404#14405#0" expanded="false" />
+            <element signature="e#19054#19055#0" expanded="false" />
+            <element signature="e#19082#19083#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Runnable.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+          <caret line="136" column="24" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#5814#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="109" column="17" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="17" />
+          <caret line="1158" column="10" selection-start-line="1158" selection-start-column="10" selection-end-line="1158" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#122318#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4846#4847#0" expanded="false" />
+            <element signature="e#4886#4887#0" expanded="false" />
+            <element signature="e#5859#5860#0" expanded="false" />
+            <element signature="e#5922#5923#0" expanded="false" />
+            <element signature="e#12931#12932#0" expanded="false" />
+            <element signature="e#12983#12984#0" expanded="false" />
+            <element signature="e#18614#18615#0" expanded="false" />
+            <element signature="e#18667#18668#0" expanded="false" />
+            <element signature="e#20560#20561#0" expanded="false" />
+            <element signature="e#20604#20605#0" expanded="false" />
+            <element signature="e#21794#21795#0" expanded="false" />
+            <element signature="e#21874#21875#0" expanded="false" />
+            <element signature="e#22493#22494#0" expanded="false" />
+            <element signature="e#22535#22536#0" expanded="false" />
+            <element signature="e#22850#22851#0" expanded="false" />
+            <element signature="e#22885#22886#0" expanded="false" />
+            <element signature="e#23141#23142#0" expanded="false" />
+            <element signature="e#23181#23182#0" expanded="false" />
+            <element signature="e#29826#29827#0" expanded="false" />
+            <element signature="e#29897#29898#0" expanded="false" />
+            <element signature="e#36782#36783#0" expanded="false" />
+            <element signature="e#36848#36849#0" expanded="false" />
+            <element signature="e#47408#47409#0" expanded="false" />
+            <element signature="e#47472#47473#0" expanded="false" />
+            <element signature="e#55768#55769#0" expanded="false" />
+            <element signature="e#55812#55813#0" expanded="false" />
+            <element signature="e#56425#56426#0" expanded="false" />
+            <element signature="e#56502#56503#0" expanded="false" />
+            <element signature="e#58524#58525#0" expanded="false" />
+            <element signature="e#58561#58562#0" expanded="false" />
+            <element signature="e#62972#62973#0" expanded="false" />
+            <element signature="e#63028#63029#0" expanded="false" />
+            <element signature="e#66593#66594#0" expanded="false" />
+            <element signature="e#66631#66632#0" expanded="false" />
+            <element signature="e#70089#70090#0" expanded="false" />
+            <element signature="e#70142#70143#0" expanded="false" />
+            <element signature="e#76845#76846#0" expanded="false" />
+            <element signature="e#76904#76905#0" expanded="false" />
+            <element signature="e#81336#81337#0" expanded="false" />
+            <element signature="e#81387#81388#0" expanded="false" />
+            <element signature="e#81771#81772#0" expanded="false" />
+            <element signature="e#81820#81821#0" expanded="false" />
+            <element signature="e#93265#93266#0" expanded="false" />
+            <element signature="e#93303#93304#0" expanded="false" />
+            <element signature="e#100120#100121#0" expanded="false" />
+            <element signature="e#100175#100176#0" expanded="false" />
+            <element signature="e#106706#106707#0" expanded="false" />
+            <element signature="e#106761#106762#0" expanded="false" />
+            <element signature="e#108897#108898#0" expanded="false" />
+            <element signature="e#108924#108925#0" expanded="false" />
+            <element signature="e#113656#113657#0" expanded="false" />
+            <element signature="e#113718#113719#0" expanded="false" />
+            <element signature="e#114225#114226#0" expanded="false" />
+            <element signature="e#114264#114265#0" expanded="false" />
+            <element signature="e#115410#115411#0" expanded="false" />
+            <element signature="e#115464#115465#0" expanded="false" />
+            <element signature="e#116378#116379#0" expanded="false" />
+            <element signature="e#116417#116418#0" expanded="false" />
+            <element signature="e#116810#116811#0" expanded="false" />
+            <element signature="e#116853#116854#0" expanded="false" />
+            <element signature="e#117688#117689#0" expanded="false" />
+            <element signature="e#117730#117731#0" expanded="false" />
+            <element signature="e#118165#118166#0" expanded="false" />
+            <element signature="e#118204#118205#0" expanded="false" />
+            <element signature="e#118646#118647#0" expanded="false" />
+            <element signature="e#118686#118687#0" expanded="false" />
+            <element signature="e#119136#119137#0" expanded="false" />
+            <element signature="e#119177#119178#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/sixth/calculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#161#162#0" expanded="false" />
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#234#235#0" expanded="false" />
+            <element signature="e#260#261#0" expanded="false" />
+            <element signature="e#305#306#0" expanded="false" />
+            <element signature="e#331#332#0" expanded="false" />
+            <element signature="e#381#382#0" expanded="false" />
+            <element signature="e#407#408#0" expanded="false" />
+            <element signature="e#459#460#0" expanded="false" />
+            <element signature="e#485#486#0" expanded="false" />
+            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#567#568#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#647#648#0" expanded="false" />
+            <element signature="e#706#707#0" expanded="false" />
+            <element signature="e#732#733#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/sixth/calculator/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Main.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Number.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/OutOfMemoryError.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Float.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="638" column="0" selection-start-line="638" selection-start-column="0" selection-end-line="638" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="109" column="17" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="17" />
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Float.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Error.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Runnable.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/zip/ZipException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Integer.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/nio/file/FileSystemException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="638" column="0" selection-start-line="638" selection-start-column="0" selection-end-line="638" selection-end-column="0" />
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/concurrent/locks/Lock.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/nio/file/NoSuchFileException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="234" column="6" selection-start-line="234" selection-start-column="6" selection-end-line="234" selection-end-column="6" />
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/jfr.jar!/oracle/jrockit/jfr/parser/ParseException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7777777">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/io/IOException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+          <folding>
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/nio/file/FileAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/text/ParseException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/zip/DataFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/jre/lib/deploy.jar!/com/sun/deploy/net/proxy/ProxyConfigException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.444445">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/ArithmeticException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.331565">
+          <caret line="257" column="12" selection-start-line="257" selection-start-column="12" selection-end-line="257" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/UnsupportedOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1914" column="9" selection-start-line="1914" selection-start-column="9" selection-end-line="1914" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="129" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="87" column="7" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1652" column="6" selection-start-line="1652" selection-start-column="6" selection-end-line="1652" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="595" column="29" selection-start-line="595" selection-start-column="29" selection-end-line="595" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="149" column="32" selection-start-line="149" selection-start-column="32" selection-end-line="149" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="439" column="48" selection-start-line="439" selection-start-column="48" selection-end-line="439" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/EnglishSpeakerModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state vertical-scroll-proportion="-4.0">
+          <caret line="1077" column="54" selection-start-line="1077" selection-start-column="12" selection-end-line="1077" selection-end-column="54" />
           <folding>
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#46071#46072#0" expanded="true" />
+            <element signature="e#46136#46137#0" expanded="true" />
+            <element signature="e#51496#51497#0" expanded="true" />
+            <element signature="e#51561#51562#0" expanded="true" />
+            <element signature="e#51711#51712#0" expanded="true" />
+            <element signature="e#51776#51777#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Main.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernMuteRobot.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/com/sun/corba/se/impl/orbutil/threadpool/TimeoutException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="29" />
           <folding>
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#0#331#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernRobot.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/ArrayIndexOutOfBoundsException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1155#1156#0" expanded="true" />
-            <element signature="e#1395#1396#0" expanded="true" />
-            <element signature="e#1436#1437#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/MuteSpeakingModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.331565">
+          <caret line="36" column="36" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Robot.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_71/src.zip!/java/lang/NullPointerException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
-            <element signature="e#953#954#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
-            <element signature="e#1089#1090#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/SpainSpeakerModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Speaking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/TestMaps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <caret line="6" column="82" selection-start-line="6" selection-start-column="82" selection-end-line="6" selection-end-column="82" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/eighth/ExceptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/TestCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/eighth/MyException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="60" />
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Animal.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22020726">
-          <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
-          <folding>
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.6380697">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

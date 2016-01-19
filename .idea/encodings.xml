@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/PrimitiveData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/TestFieldByValue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/TestGC.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/WrapperData.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/EnglishSpeakerModule.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/ModernMuteRobot.java" charset="UTF-8" />
@@ -9,11 +14,14 @@
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Robot.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/SpainSpeakerModule.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Speaking.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Walking.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/test/Main2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/CocktailMakerModule.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/CoffeeCocktailMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/MilkCocktailMaker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/RobotCocktailMaker.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Animal.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Cat.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Dog.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/crimeasos/java/course/third/Main.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
