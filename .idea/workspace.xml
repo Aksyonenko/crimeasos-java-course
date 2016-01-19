@@ -2,23 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ae2dde-57c0-4587-b152-766ae741308d" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\EnglishSpeakerModule.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\ModernMuteRobot.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\ModernRobot.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\MuteSpeakingModule.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\Robot.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\SpainSpeakerModule.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\fourth\Speaking.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\third\Animal.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\third\Cat.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\third\Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\creameasosCoursesProject\com\crimeasos\java\course\third\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\testProject\com\company\Dog.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\testProject\com\company\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\out\production\testProject\com\company\MyFirstClass.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\description.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\project-template.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\creameasosCoursesProject.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="testProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -159,8 +154,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6380697">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.7265416">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -212,7 +207,6 @@
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/CocktailMakerModule.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/CoffeeCocktailMaker.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/MilkCocktailMaker.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fifth/ObjectClass.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/cocktailmaker/RobotCocktailMaker.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/fourth/Robot.java" />
@@ -239,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/eighth/MyException.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/eighth/ExceptionTest.java" />
         <option value="$PROJECT_DIR$/src/com/crimeasos/java/course/seventh/TestCollections.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -878,7 +873,7 @@
       <workItem from="1452105369719" duration="7942000" />
       <workItem from="1452524182740" duration="31016000" />
       <workItem from="1452857997873" duration="19231000" />
-      <workItem from="1453120884873" duration="21335000" />
+      <workItem from="1453120884873" duration="21651000" />
     </task>
     <task id="LOCAL-00001" summary="fifth lesson&#10;">
       <created>1450828661662</created>
@@ -902,7 +897,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193846000" />
+    <option name="totallyTimeSpent" value="194162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1591,8 +1586,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6380697">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.7265416">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
