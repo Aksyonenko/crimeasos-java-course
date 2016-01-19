@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ae2dde-57c0-4587-b152-766ae741308d" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\description.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\project-template.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\workspace\crimeasos-java-course\creameasosCoursesProject.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="testProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -154,8 +144,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6809651">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.4075067">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -863,7 +853,7 @@
       <workItem from="1452105369719" duration="7942000" />
       <workItem from="1452524182740" duration="31016000" />
       <workItem from="1452857997873" duration="19231000" />
-      <workItem from="1453120884873" duration="21881000" />
+      <workItem from="1453120884873" duration="22147000" />
     </task>
     <task id="LOCAL-00001" summary="fifth lesson&#10;">
       <created>1450828661662</created>
@@ -887,7 +877,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194392000" />
+    <option name="totallyTimeSpent" value="194658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1576,8 +1566,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6809651">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.4075067">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
