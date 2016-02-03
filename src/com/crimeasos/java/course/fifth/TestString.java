@@ -8,7 +8,7 @@ class TestString {
 
     public static void main(String[] args) {
         //Сторюється новий об'єкт в heap
-        String test1 = new String("test");
+        String test1 = new String("test").intern();
         //Сторюється новий об'єкт в стрінг пулі
         String test2 = "test";
         //Береться створений в стрінг пулі об'єкт
