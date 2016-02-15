@@ -5,20 +5,29 @@ package com.crimeasos.java.course.tenth;
  */
 public class InnerClassHolder {
 
-
-
     static int i;
     int j;
     static void staticMethod() {}
     void memeberMethod() {}
     void method() {}
 
-    void localclassMothod(final int z) {
+    {
         class LocalClass {
             int c;
             void method1() {
-                i = z;
 
+
+            }
+        }
+    }
+
+    void localClassMothod(final int z) {
+        final int g =2;
+        class LocalClass {
+            int c;
+            void method1() {
+                int y = g +  23;
+                i = z;
             }
         }
     }

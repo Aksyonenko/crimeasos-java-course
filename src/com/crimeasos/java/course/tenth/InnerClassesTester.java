@@ -9,22 +9,38 @@ import java.util.Set;
 public class InnerClassesTester {
 
     static  public void main(String[] args) {
+
+        InnerClassHolder.InnerStaticClass innerStaticClass = new InnerClassHolder.InnerStaticClass();
         InnerClassHolder innerClassHolder = new InnerClassHolder();
-        new InnerClassHolder.InnerStaticClass();
-        innerClassHolder.new InnerMemberClass();
+        InnerClassHolder.InnerMemberClass innerMemberClass = innerClassHolder.new InnerMemberClass();
 
         //anonymous class
 
 
-        new I() {
-
+        I i = new I() {
             @Override
             public void method() {
-
+                System.out.println("anonymous class");
             }
         };
+        forI(i);
+
+        new ClassInInterface.InnerClass().test();
+    }
+
+    static public void forI(I i) {
+        i.method();
     }
 }
 interface I {
     void method();
+}
+
+
+class ForI implements I {
+
+    @Override
+    public void method() {
+        System.out.println("anonymous class");
+    }
 }
