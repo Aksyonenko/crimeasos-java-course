@@ -12,21 +12,29 @@ public class GenericTest {
 
 
     public static void main(String[] args) {
-        List<String> stringList = new ArrayList<String>();
-        List list = new ArrayList();
-
-        list = stringList;
+//        List<String> stringList = new ArrayList<>();
+//
+//
+//        List list = new ArrayList();
+//
+//        list = stringList;
+//        list.add(1);
+//
+//
+//        String test = (String) list.get(0);
+//        System.out.println(stringList);
+//
+        SomeType<String>  someType = new SomeType<>();
+        List<Integer> list = new ArrayList<>();
         list.add(1);
+//
+//        List<Object> objectList = new ArrayList<>();
+//        someType.test(stringList);
+//        someType.test(objectList);
 
-        //String test = (String) list.get(0);
-        System.out.println(stringList);
-
-        SomeType someType = new SomeType();
-        //someType.test(Arrays.asList("test"));
-
-        List<Object> objectList = new ArrayList<>();
-        someType.test(stringList);
-        someType.test(objectList);
+//        List<String> stringList1 = Arrays.asList("a1", "a2");
+//        Utilities.fill(stringList1, "test");
+//        System.out.println(stringList1);
     }
 }
 
@@ -37,10 +45,21 @@ class SomeType<T> {
 //        }
 //    }
 
-    public  void test(List<Integer> list) {
+    public void print(T t) {
+        System.out.println(t);
+    }
+
+    public  void test(ArrayList<Integer> list) {
         for (Integer el : list) {
             System.out.println(el);
         }
     }
 
+}
+
+class Utilities {
+    public static <T> void fill(List<T> list, T val) {
+        for (int i = 0; i < list.size(); i++)
+            list.set(i, val);
+    }
 }
