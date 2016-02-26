@@ -27,11 +27,11 @@ public class Customer implements Runnable {
 
     private void buy(int clientId) throws InterruptedException{
         synchronized (clientIdes) {
-//            while (!clientIdes.isEmpty()) {
-//                System.out.println("Customer" + clientId + " is waiting..." );
-//                clientIdes.wait();
-//            }
-            Thread.sleep(5000);
+            while (!clientIdes.isEmpty()) {
+                System.out.println("Customer" + clientId + " is waiting..." );
+                clientIdes.wait();
+            }
+            Thread.sleep(1000);
             clientIdes.add(clientId);
             System.out.println("Customer" + clientId + " is buying products");
             clientIdes.notifyAll();

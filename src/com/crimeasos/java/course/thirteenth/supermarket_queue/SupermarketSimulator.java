@@ -19,3 +19,5 @@ public class SupermarketSimulator {
         new Thread(new Cashier(clientIdes), "Cashier2").start();
     }
 }
+
+

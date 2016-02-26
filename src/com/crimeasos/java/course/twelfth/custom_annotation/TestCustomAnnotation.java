@@ -27,7 +27,6 @@ public class TestCustomAnnotation {
                         e.printStackTrace();
                     }
                 }
-
             }
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
